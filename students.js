@@ -32,3 +32,9 @@ const student8 = {
   grades: [4, 5, 4],
   isActive: true
 };
+const student4 = {
+  id: 4,
+  name: "Julia",
+  age: 24,
+  course: "Java"
+}
