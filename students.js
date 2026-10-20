@@ -24,3 +24,9 @@ const student3 = {
   grades: [5, 5, 4],
   isActive: false
 };
+const student4 = {
+  id: 4,
+  name: "Julia",
+  age: 24,
+  course: "Java"
+}
