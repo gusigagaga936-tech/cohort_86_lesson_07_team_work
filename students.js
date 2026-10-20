@@ -24,9 +24,20 @@ const student3 = {
   grades: [5, 5, 4],
   isActive: false
 };
+<<<<<<< HEAD
 const student4 = {
   id: 4,
   name: "Julia",
   age: 24,
   course: "Java"
+=======
+
+const student4 = {
+  id: 4,
+  name:"Дмитрий",
+  age: 23,
+  course: "Java",
+  grades: [3, 4, 4],
+  isActive: true
+>>>>>>> 73fb768 (Add new student)
 }
