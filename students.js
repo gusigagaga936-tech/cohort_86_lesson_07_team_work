@@ -24,11 +24,25 @@ const student3 = {
   grades: [5, 5, 4],
   isActive: false
 };
-const student4 = {
-  id: 3,
+const student5 = {
+  id: 5,
   name: "Елена",
   age: 21,
   course: "C++",
   grades: [5, 5, 3],
   isActive: true
 };
+const student8 = {
+  id: 4,
+  name: "Oleg",
+  age: 24,
+  course: "JavaScript",
+  grades: [4, 5, 4],
+  isActive: true
+};
+const student4 = {
+  id: 4,
+  name: "Julia",
+  age: 24,
+  course: "Java"
+}
