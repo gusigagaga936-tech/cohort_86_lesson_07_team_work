@@ -1,9 +1,9 @@
-// Array of users, developers can add objects here
+// Array of users, developers can add user objects
 const users = [
     {
-    firstName: "John",
-    lastName: "Doe",
-    age: 30,
-    job:"QA"
+        firstName: "John",
+        lastName: "Johnson",
+        age:30,
+        job: "QA",
     }
 ]
